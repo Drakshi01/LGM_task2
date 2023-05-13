@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4d986;
+  }
+  .header {
+    display: flex;
+    /* justify-content:; */
+    background-color: #cf9925;
+    /* align-items: baseline; */
+    height: 5%;
+  }
+  .head-title {
+    font-family: Lato;
+    margin: 1%;
+    color: #eee2dc;
+    background-color: transparent;
+  }
+  .head-btn {
+    width: 100px;
+    height: 2.5rem;
+    margin-left:950px;
+    margin-top:15px;
+    background-color: #eee2dc;
+    border: none;
+    outline: none;
+  }
+  .card-body {
+    text-align: center;
+    color: rgb(46, 28, 2);
+  }
+  .card-img-top {
+    width: 100%;
+  }
+  .users-space {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+  }
+  .main {
+    border: 2px solid #ffffff;
+  }
