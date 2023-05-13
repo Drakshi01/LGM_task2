@@ -12,7 +12,7 @@ export default function App() {
   return (
     <div>
       <div className="header">
-        <h1 className="head-title">TASK 2</h1>
+        <h1 className="head-title">Git Users</h1>
         <button className="head-btn" onClick={loadUser}>
           Get User
         </button>
